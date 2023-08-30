@@ -1,0 +1,9 @@
+#include <stdio.h>
+#include <conio.h>
+int main()
+{
+
+    printf("tab character \\t");
+    getch();
+    return 0;
+}
